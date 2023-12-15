@@ -9,6 +9,13 @@
   - 他社ベンダのネットワークサービスの再販で使用する社内用ツールの運用・保守
   - 社内DXの推進、DX人材教育プログラムの立ち上げ・運営
 
+# 言語・フレームワーク
+- Javascript
+- Vue.js
+- Ruby
+- Ruby on Rails
+- Python
+
 # 資格
 - CCNA
 - Cisco DEVASC
@@ -18,9 +25,9 @@
 - EXIN DevOps Professional
 - Ruby Silver
 
-# 言語・フレームワーク
-- Javascript
-- Vue.js
-- Ruby
-- Ruby on Rails
-- Python
+# その他
+- 特技
+  - 耳を動かせます
+- 的中馬券の最高オッズ
+  - 223.3倍 （2021年 デイリー杯2歳ステークス 3連単）
+ 
