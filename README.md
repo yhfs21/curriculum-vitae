@@ -1,5 +1,6 @@
 # 基本情報
 - id: yhfs21
+- [Zenn](https://zenn.dev/yiefhouse)
 
 # 職務経歴
 - 株式会社ウェイブ（2023-01～）
@@ -24,6 +25,7 @@
 - AWS Solution Architect Associate
 - EXIN DevOps Professional
 - Ruby Silver
+- Ruby Gold
 
 # その他
 - 特技
